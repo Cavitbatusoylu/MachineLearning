@@ -23,13 +23,13 @@ Bu proje, gerçek dünya verileri üzerinde makine öğrenmesi tekniklerini kull
 
 - ## 📂 Proje Dosya Yapısı
 
-├── data/ # Veri setleri
-├── notebooks/ # Jupyter Notebook analizleri
-├── src/ # Kaynak kodları (veri işleme, model, eğitim)
-├── models/ # Eğitilmiş modeller
-├── reports/ # Raporlar ve görseller
-├── requirements.txt # Proje bağımlılıkları
-└── README.md # Proje açıklaması
+-├── data/ # Veri setleri
+-├── notebooks/ # Jupyter Notebook analizleri
+-├── src/ # Kaynak kodları (veri işleme, model, eğitim)
+-├── models/ # Eğitilmiş modeller
+-├── reports/ # Raporlar ve görseller
+-├── requirements.txt # Proje bağımlılıkları
+-└── README.md # Proje açıklaması
 
 ## ⚙️ Kullanım Adımları
 
@@ -37,17 +37,17 @@ Bu proje, gerçek dünya verileri üzerinde makine öğrenmesi tekniklerini kull
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi
 
-2.Sanal ortam oluşturun ve aktif edin:
+2. Sanal ortam oluşturun ve aktif edin:
 python -m venv venv
 source venv/bin/activate    # Linux/macOS  
 venv\Scripts\activate       # Windows  
 
-3.Gerekli paketleri yükleyin:
+3. Gerekli paketleri yükleyin:
 pip install -r requirements.txt
 
-4.Analiz veya eğitim scriptini çalıştırın:
+4. Analiz veya eğitim scriptini çalıştırın:
 python src/train.py
-# veya
+### veya
 jupyter notebook notebooks/analysis.ipynb
 
 ## 📈 Kullanılan Teknolojiler & Kütüphaneler
