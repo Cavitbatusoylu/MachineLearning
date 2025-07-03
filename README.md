@@ -1,5 +1,3 @@
-# MachineLearning
-
 # 🚀 Makine Öğrenmesi
 
 > **Veriden güce: Makine öğrenmesi ile anlamlı içgörüler ortaya çıkarıyoruz!**
@@ -23,13 +21,13 @@ Bu proje, gerçek dünya verileri üzerinde makine öğrenmesi tekniklerini kull
 
 - ## 📂 Proje Dosya Yapısı
 
--├── data/ # Veri setleri
--├── notebooks/ # Jupyter Notebook analizleri
--├── src/ # Kaynak kodları (veri işleme, model, eğitim)
--├── models/ # Eğitilmiş modeller
--├── reports/ # Raporlar ve görseller
--├── requirements.txt # Proje bağımlılıkları
--└── README.md # Proje açıklaması
+- ├── data/           # Veri setleri  
+- ├── notebooks/      # Jupyter Notebook analizleri  
+- ├── src/            # Kaynak kodları (veri işleme, model, eğitim)  
+- ├── models/         # Eğitilmiş modeller  
+- ├── reports/        # Raporlar ve görseller  
+- ├── requirements.txt # Proje bağımlılıkları  
+- └── README.md       # Proje açıklaması  
 
 ## ⚙️ Kullanım Adımları
 
